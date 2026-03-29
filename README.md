@@ -1,3 +1,3 @@
-# assignmetn4-cse445
+# assignment-cse445
 
 ## minor change
