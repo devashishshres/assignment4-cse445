@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+  <!-- Chitwan National Park (Visited) -->
+  <NationalPark Rating="4.8">
+    <Name>Chitwan National Park</Name>
+    <Phone>+977-984-1360-480</Phone>
+    <Address NearestAirport="Bharatpur Airport">
+      <Number>1</Number>
+      <Street>Chitwan Road</Street>
+      <City>Bharatpur</City>
+      <State>Bagmati</State>
+      <Zip>44100</Zip>
+    </Address>
+  </NationalPark>
+  
+
+  <!-- Annapurna Conservation Area -->
+  <NationalPark Rating="4.9">
+    <Name>Annapurna Conservation Area</Name>
+    <Phone>+977-984-2203-496</Phone>
+    <Phone>+977-984-1592-384</Phone>
+    <Address NearestAirport="Pokhara International Airport">
+      <Number>2</Number>
+      <Street>Annapurna Road</Street>
+      <City>Pokhara</City>
+      <State>Gandaki</State>
+      <Zip>44200</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Khaptad National Park -->
+  <NationalPark>
+    <Name>Khaptad National Park</Name>
+    <Phone>+977-984-5129-304</Phone>
+    <Address NearestAirport="Dipayal Airport">
+      <Number>3</Number>
+      <Street>Khaptad Road</Street>
+      <City>Doti</City>
+      <State>Sudurpashchim</State>
+      <Zip>44300</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Manaslu Conservation Area -->
+  <NationalPark>
+    <Name>Manaslu Conservation Area</Name>
+    <Phone>+977-984-1847-625</Phone>
+    <Address NearestAirport="Pokhara International Airport">
+      <Number>4</Number>
+      <Street>Manaslu Road</Street>
+      <City>Gorkha</City>
+      <State>Gandaki</State>
+      <Zip>44400</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Shivapuri National Park -->
+  <NationalPark Rating="4.3">
+    <Name>Shivapuri Nagarjun National Park</Name>
+    <Phone>+977-984-9032-158</Phone>
+    <Address NearestAirport="Tribhuvan International Airport">
+      <Number>5</Number>
+      <Street>Budhanilkantha Road</Street>
+      <City>Kathmandu</City>
+      <State>Bagmati</State>
+      <Zip>44500</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Rara National Park -->
+  <NationalPark>
+    <Name>Rara National Park</Name>
+    <Phone>+977-984-2765-419</Phone>
+    <Phone>+977-984-6028-471</Phone>
+    <Phone>+977-984-8571-063</Phone>
+    <Address NearestAirport="Talcha Airport">
+      <Number>6</Number>
+      <Street>Rara Road</Street>
+      <City>Mugu</City>
+      <State>Karnali</State>
+      <Zip>44600</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Bardiya National Park -->
+  <NationalPark Rating="4.6">
+    <Name>Bardiya National Park</Name>
+    <Phone>+977-984-6410-872</Phone>
+    <Address NearestAirport="Nepalgunj Airport">
+      <Number>7</Number>
+      <Street>Bardiya Road</Street>
+      <City>Thakurdwara</City>
+      <State>Lumbini</State>
+      <Zip>44700</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Langtang National Park -->
+  <NationalPark Rating="4.7">
+    <Name>Langtang National Park</Name>
+    <Phone>+977-984-3981-540</Phone>
+    <Phone>+977-984-2469-587</Phone>
+    <Address NearestAirport="Tribhuvan International Airport">
+      <Number>8</Number>
+      <Street>Langtang Road</Street>
+      <City>Rasuwa</City>
+      <State>Bagmati</State>
+      <Zip>44800</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Sagarmatha National Park -->
+  <NationalPark Rating="4.9">
+    <Name>Sagarmatha National Park</Name>
+    <Phone>+977-984-7523-961</Phone>
+    <Address NearestAirport="Tenzing-Hillary Airport">
+      <Number>9</Number>
+      <Street>Namche Bazaar Road</Street>
+      <City>Namche Bazaar</City>
+      <State>Koshi</State>
+      <Zip>44900</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Makalu Barun National Park -->
+  <NationalPark Rating="4.7">
+    <Name>Makalu Barun National Park</Name>
+    <Phone>+977-984-8256-037</Phone>
+    <Address NearestAirport="Tumlingtar Airport">
+      <Number>10</Number>
+      <Street>Makalu Road</Street>
+      <City>Khandbari</City>
+      <State>Koshi</State>
+      <Zip>45000</Zip>
+    </Address>
+  </NationalPark>
+  
+</NationalParks>
