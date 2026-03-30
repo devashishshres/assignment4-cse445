@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- (ERROR 1): Root element is "NationalPark" instead of "NationalParks" -->
+<NationalPark>
+  <!-- Chitwan National Park - (ERROR 2): NearestAirport attribute is missing from Address -->
+  <NationalPark Rating="4.8">
+    <Name>Chitwan National Park</Name>
+    <Phone>+977-984-1360-480</Phone>
+    <Phone>+977-56-580107</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Chitwan Road</Street>
+      <City>Bharatpur</City>
+      <State>Bagmati</State>
+      <Zip>44100</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Annapurna Conservation Area - (ERROR 3): Phone element is missing entirely -->
+  <NationalPark Rating="4.9">
+    <Name>Annapurna Conservation Area</Name>
+    <Address NearestAirport="Pokhara International Airport">
+      <Number>2</Number>
+      <Street>Annapurna Road</Street>
+      <City>Pokhara</City>
+      <State>Gandaki</State>
+      <Zip>44200</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Khaptad National Park - no errors -->
+  <NationalPark>
+    <Name>Khaptad National Park</Name>
+    <Phone>+977-984-5129-304</Phone>
+    <Address NearestAirport="Dipayal Airport">
+      <Number>3</Number>
+      <Street>Khaptad Road</Street>
+      <City>Doti</City>
+      <State>Sudurpashchim</State>
+      <Zip>44300</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Manaslu Conservation Area - (ERROR 4): Address has no closing tag -->
+  <NationalPark>
+    <Name>Manaslu Conservation Area</Name>
+    <Phone>+977-984-1847-625</Phone>
+    <Address NearestAirport="Pokhara International Airport">
+      <Number>4</Number>
+      <Street>Manaslu Road</Street>
+      <City>Gorkha</City>
+      <State>Gandaki</State>
+      <Zip>44400</Zip>
+
+  <!-- Shivapuri National Park - (ERROR 5): Two Name elements provided -->
+  <NationalPark Rating="4.3">
+    <Name>Shivapuri National Park</Name>
+    <Name>Shivapuri Nagarjun National Park</Name>
+    <Phone>+977-984-9032-158</Phone>
+    <Address NearestAirport="Tribhuvan International Airport">
+      <Number>5</Number>
+      <Street>Budhanilkantha Road</Street>
+      <City>Kathmandu</City>
+      <State>Bagmati</State>
+      <Zip>44500</Zip>
+    </Address>
+  </NationalPark>
+</NationalPark>
