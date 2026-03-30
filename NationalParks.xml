@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://devashishshres.github.io/assignment4-cse445/NationalParks.xsd">
   <!-- Chitwan National Park (Visited) -->
   <NationalPark Rating="4.8">
     <Name>Chitwan National Park</Name>
